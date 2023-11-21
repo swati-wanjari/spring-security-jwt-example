@@ -25,11 +25,16 @@ user details
 Header+Payload  encrypted in base64url
 
 <h3>Dependencies</h3>
-Lombok \n
-Spring Web
-Spring Security
-H2 database
-Spring Data JPA
+Lombok 
+
+Spring Web 
+
+Spring Security 
+
+H2 database 
+
+Spring Data JPA 
+
 spring-boot-devtools
 
 
