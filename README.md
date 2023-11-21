@@ -25,7 +25,7 @@ user details
 Header+Payload  encrypted in base64url
 
 <h3>Dependencies</h3>
-Lombok
+Lombok \n
 Spring Web
 Spring Security
 H2 database
