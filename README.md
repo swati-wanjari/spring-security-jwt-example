@@ -17,6 +17,7 @@ JWT contains 3 part
 ![image](https://github.com/swati-wanjari/spring-security-jwt-example/assets/146084843/fc9f0a92-a6a2-4843-9e39-dfcbaea34ece)
 
 Header + Payload + Verify Signature (separated by dot(.))
+
 <h4>Header</h4>
 specify which type of algorithm you are using + which type token we are using
 <h4>Payload</h4>
@@ -26,10 +27,16 @@ Header+Payload  encrypted in base64url
 
 <h3>Dependencies</h3>
 - Lombok
-- Spring Web  
-- Spring Security  
-- H2 database 
-- Spring Data JPA  
+
+- Spring Web
+  
+- Spring Security
+
+- H2 database
+
+- Spring Data JPA
+  
 - spring-boot-devtools 
+
 
 
