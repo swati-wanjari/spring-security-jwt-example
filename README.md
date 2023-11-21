@@ -25,19 +25,11 @@ user details
 Header+Payload  encrypted in base64url
 
 <h3>Dependencies</h3>
-- Lombok  
+- Lombok
 - Spring Web  
 - Spring Security  
-- H2 database  
+- H2 database 
 - Spring Data JPA  
 - spring-boot-devtools 
 
-- Lombok
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: swatiwanjari2@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
