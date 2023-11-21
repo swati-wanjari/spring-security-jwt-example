@@ -2,6 +2,8 @@
 
 JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA or ECDSA.
 
-![img.png](img.png)
+![image](https://github.com/swati-wanjari/spring-security-jwt-example/assets/146084843/d2687670-7ce7-4ae7-ae63-6fd5eafcd4af)
 
 in server side application we add spring security
+
+![image](https://github.com/swati-wanjari/spring-security-jwt-example/assets/146084843/7f0c0b53-a7fa-4ed7-b885-760f9faa8f8b)
