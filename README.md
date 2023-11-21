@@ -7,3 +7,8 @@ JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and s
 in server side application we add spring security
 
 ![image](https://github.com/swati-wanjari/spring-security-jwt-example/assets/146084843/7f0c0b53-a7fa-4ed7-b885-760f9faa8f8b)
+
+Instead of giving hardcoded username and password in each and every request you can pass your encrypted string which is called JSON Web Token.
+
+JWT is self contained
+It contains your input in encrypted format (uername and password) + other fields (refer jwt.io) official doc
